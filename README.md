@@ -22,3 +22,29 @@ e. Códigos em Javascript:
     iv. comida.js/alimento.js
     v. objetoJogo.js
     vi. jogo.js
+
+
+# English: gameCobra - IFRJ - SJM
+Evaluation work for the course where the Nokia game Snake (1997) was developed.
+------------------------------------------------------------------------------------------
+
+Based on its coding, the following changes were implemented:
+a. PART I - Change the code so that the game screen background is an image;
+b. PART II - Change the code so that the snake has more than one color after eating the first food item;
+c. PART III - Change the code so that the game has three (3) types of food items and each one has a different score.
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+Furthermore, using the JavaScript (.js) code for the game "IFRJ Cobra," identify the classes, attributes, methods, and relationships of the IFRJ Game.
+
+a. The names of classes, attributes, and methods must follow Camel Case notation;
+b. All attributes and methods must be public;
+c. Consider any functional program or object as a class;
+d. Identify the relationships between classes;
+e. Javascript codes:
+i. screen.js/scenario.js
+ii. scoreboard.js
+iii. snake.js
+iv. food.js/food.js
+v. gameObject.js
+vi. game.js
